@@ -1,0 +1,20 @@
+Podemos agrupar una parte de nuestranp expresión regularnb con paréntesis. Además de podernp agrupar, 
+podemos crear una referencia posterior de la expresión, es decir, una referencia que se hace 
+más tarde almacena la parte de string que coincide con el grupo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
