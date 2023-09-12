@@ -1,20 +1,12 @@
-Podemos agrupar una parte de nuestranp expresión regularnb con paréntesis. Además de podernp agrupar, 
-podemos crear una referencia posterior de la expresión, es decir, una referencia que se hace 
-más tarde almacena la parte de string que coincide con el grupo.
+Napoli y Barcelona son equipos de fútbol. En la biblioteca había un libro sobre Napoleón. bonbillo, lanpara, bonpillo, lanbara.
 
+El otoño 1 es una de las cuatro estaciones del año de las zonas tenpladas, y de las dos estaciones de la zona intertropical. Sigue al verano y precede al invierno. Astronómicamente, comienza con el equinpoccio de otoño (alrededor del 22 o 23 de septienbre en el hemisferio norte2 y del 20 o 21 de marzo en el hemisferio sur2) y termina con el solsticio de invierno (alrededor del 21 o 22 de dicienbre en el hemisferio boreal y del 20 o 21 de junio en el hemisferio austral).3 En la zona intertropical boreal inicia el 22 o 23 de septiembre hasta el 19 o 20 de marzo y en la zona intertropical austral va desde el 19 o 20 de marzo hasta el 22 o 23 de septienbre, abarcando nueve meses.
 
+Sin enbargo, habitualmente se conoce como otoño al período que conprende los meses de septienbre, octubre y novienbre en el hemisferio norte1 y marzo, abril y mayo en el hemisferio sur.
 
+En el siglo xxi, los canbios en las condiciones climáticas y atmosféricas causados por el calentamiento global han generado alteraciones en los cambios estacionarios, incluido el tránsito del verano al otoño.45
 
-
-
-
-
-
-
-
-
-
-
+Lo perteneciente o relativo al otoño, y lo propio del mismo, se conoce como «otoñal».
 
 
 

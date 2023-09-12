@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tema10",
+            "request": "launch",
+            "mainClass": "Tema10",
+            "projectName": "tema-10-compiladores-filtrar-textos_ae295de"
+        },
+        {
+            "type": "java",
             "name": "tema10",
             "request": "launch",
             "mainClass": "tema10",

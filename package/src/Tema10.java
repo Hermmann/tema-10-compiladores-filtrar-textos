@@ -1,4 +1,3 @@
-import java.util.regex.*;
 
 
 public class Tema10 {
@@ -9,12 +8,13 @@ public class Tema10 {
         // expresión, es decir, una referencia que se hace más tarde almacena la parte
         // de string que coincide con el grupo";
         Textos t = new Textos();
-        String texto = t.leer("texto.txt");
+        String texto = t.leer("package/texto.txt");
 
-        String pattern = "n[bp]";
+        String pattern = "n(?=[bp])";
         // Usar una expresión regular para buscar 'nb' o 'np' y reemplazar con 'm'
         String resultado = texto.replaceAll(pattern, "m");
         System.out.println();
+        System.out.println("Texto corregido.");
         
         System.out.println(resultado);
     }

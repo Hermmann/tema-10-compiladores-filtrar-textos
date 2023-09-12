@@ -1,4 +1,7 @@
 import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException; 
 
 public class Textos {
     String leer(String nombreArchivo)
@@ -24,6 +27,7 @@ public class Textos {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
+        System.out.println("Texto original.");
         System.out.println(texto);
         return texto;
 
